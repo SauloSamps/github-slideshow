@@ -2,5 +2,5 @@
 layout: slide
 content: "Welcome to our second slide!"
 ---
-Your text
+mfw pull request not accepted by Linus
 Use the left arrow to go back!
